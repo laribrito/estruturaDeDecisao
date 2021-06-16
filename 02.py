@@ -6,7 +6,7 @@ def limpar():
 
 limpar()
 print(" - Negativo ou positivo? -")
-n1 = int(input(" Digite um número: \n  > "))
+n1 = float(input(" Digite um número: \n  > "))
 
 if n1 > 0:
 	print(f"{n1} é um número positivo.")
