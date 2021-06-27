@@ -1,4 +1,4 @@
-<img src="./add/pythonLogo.png" width="100px" style="display: block; margin-left: auto; margin-right: auto ">
+<img src="./add/pythonLogo.png" width="50px">
 
 # Exercícios Python - Estruturas condicionais
  
